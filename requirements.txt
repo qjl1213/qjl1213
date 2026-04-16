@@ -56,7 +56,7 @@ yarg==0.1.10
 #streamlit
 #pandas
 #matplotlib
-##numpy
+#numpy
 #seaborn
 #scipy
 #openpyxl
